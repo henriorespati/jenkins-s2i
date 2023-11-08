@@ -1,2 +1,3 @@
 msbuild:1.30
 dotnet-sdk:1.4.0
+pipeline-global-lib-nexus:0.3.2
